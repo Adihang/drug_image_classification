@@ -11,6 +11,7 @@ dataset : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihu
 3. 550x550px 로 배경 크롭하여 용량문제 해결
 4. Resnet, 50epoch 학습하여 테스트
     - 같은 shape 인것은 잘 분류해내지만, 정확한 클래스명으로 분류하지는 못함
+![캡처](/history/KakaoTalk_20231106_173623832.png)
     -  VGGnet으로도 학습시켜보았지만 여전히 같은 증상
 5. 첫 분류로 shape 확인 후, 다시 정확한 클래스명으로 분류해내는 이중구조로 구현
     - 여전히 shape 는 잘 분류해내지만, 정확한 클래스명으로 분류하지는 못함
