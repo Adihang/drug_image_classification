@@ -15,5 +15,6 @@ dataset : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihu
     -  VGGnet으로도 학습시켜보았지만 여전히 같은 증상
 5. 첫 분류로 shape 확인 후, 다시 정확한 클래스명으로 분류해내는 이중구조로 구현
     - 여전히 shape 는 잘 분류해내지만, 정확한 클래스명으로 분류하지는 못함
+![캡처](/history/KakaoTalk_20231108_212302667_01.png)
 6. 분류 불가능으로 결론내고, 프로젝트 종료
     - 클래스 개수가 너무 많고, 약품마다 데이터 불균형이 너무 심해서 정확한 분류가 불가능하다고 판단내림
