@@ -1,4 +1,3 @@
-# drug_image_classification
 # 경구약제 이미지 분류(프로젝트 실패)
 
 dataset : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=576
